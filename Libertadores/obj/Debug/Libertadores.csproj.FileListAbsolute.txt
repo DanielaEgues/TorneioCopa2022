@@ -1,0 +1,13 @@
+C:\Users\danie\Downloads\Libertadores\Libertadores\bin\Debug\Libertadores.exe.config
+C:\Users\danie\Downloads\Libertadores\Libertadores\bin\Debug\Libertadores.exe
+C:\Users\danie\Downloads\Libertadores\Libertadores\bin\Debug\Libertadores.pdb
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.csproj.AssemblyReference.cache
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.Form1.resources
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.Properties.Resources.resources
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.csproj.GenerateResource.cache
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.csproj.CoreCompileInputs.cache
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.exe
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.pdb
+C:\Users\danie\Downloads\Libertadores\Libertadores\obj\Debug\Libertadores.Form2.resources
+C:\Users\danie\Downloads\Libertadores\Libertadores\bin\Debug\Database.mdf
+C:\Users\danie\Downloads\Libertadores\Libertadores\bin\Debug\Database_log.ldf
